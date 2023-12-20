@@ -9,7 +9,7 @@ function createUserName(user,email,pass){
 }
 
 const user1 = new createUserName("himanshu","himanshu@email.com","1234");
-console.log(user1)
+console.log(user1);
 
 
 // The call() method is a predefined JavaScript method.
